@@ -1,6 +1,7 @@
 # Challenge #1: HTML CS Git Challenge: Code Refactor
 ***
 
+## Description
 This challenge was to refractor a website, make sure it is accessible, and take the existing code and refactor it.  Making a web more accessible makes sure that people with disabilities can access the website.  
 
 ## Installation
