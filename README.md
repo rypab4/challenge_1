@@ -11,6 +11,8 @@ To see the html, css files, and images to go to terminal and open desired folder
 ## Usage
 
 Example is an image of the website
-./assets/images/code_refractor.png
+./assets/images/code_refractor.png or
+
+![](./assets/images/code_refractor.png)
 
 
