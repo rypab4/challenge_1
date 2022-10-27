@@ -2,7 +2,7 @@
 ***
 
 ## Description
-This challenge was to refractor a website, make sure it is accessible, and take the existing code and refactor it.  Making a web more accessible makes sure that people with disabilities can access the website.  
+This challenge was to refractor a website, make sure it is accessible, and take the existing code and refactor it.  Making a web more accessible makes sure that people with disabilities can access the website.  The website has been condensed and a more descriptive title
 
 ## Demo
 To see the website go to https://rypab4.github.io/challenge_1/.
